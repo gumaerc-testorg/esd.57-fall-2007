@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: bae48dba-d1d3-83e7-e0c3-c5932dd2e54b
 resourcetype: Document
 title: esd_seminar_5.pdf
 uid: 5cbbd69e-9607-216c-81fe-e79f523308b0
