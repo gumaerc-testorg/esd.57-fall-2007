@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides the course description, the course outline,
+  recommended citation, and class schedule.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

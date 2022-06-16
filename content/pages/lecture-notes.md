@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on lecture topics, lecture notes, and
+  downloadable audio lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ DOWNLOADABLE
 {{< tdopen >}}
 
 
-The critical role of technology-based, disruptive innovations to a business ([PDF]({{< baseurl >}}/resources/esd_seminar_1))
+The critical role of technology-based, disruptive innovations to a business ({{% resource_link 6df42b25-0d0f-bc8c-b0b9-afdfe21a0e87 "PDF" %}})
 
 The IBM near-death experience of the early 1990s
 
@@ -48,7 +50,7 @@ The IBM near-death experience of the early 1990s
 {{< tdopen >}}
 
 
-Strategy formulation - key external factors ([PDF]({{< baseurl >}}/resources/esd_seminar_2))
+Strategy formulation - key external factors ({{% resource_link e1012577-f8cd-0cf8-7064-ce3386a8a283 "PDF" %}})
 
 Initial discussion of class project
 
@@ -66,7 +68,7 @@ Initial discussion of class project
 {{< tdopen >}}
 
 
-Strategy formulation - the internet and the Web as major disruptive forces ([PDF - 1.5 MB]({{< baseurl >}}/resources/esd_seminar_3)) (Courtesy of John R. Patrick. Used with permission.)
+Strategy formulation - the internet and the Web as major disruptive forces ({{% resource_link f20ea4cb-a738-57b3-fc0e-ceae86dc90aa "PDF - 1.5 MB" %}}) (Courtesy of John R. Patrick. Used with permission.)
 
 Coming up with the IBM internet strategy
 
@@ -84,7 +86,7 @@ The future of the internet
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Strategy formulation - key internal factors ([PDF]({{< baseurl >}}/resources/esd_seminar_4))
+Strategy formulation - key internal factors ({{% resource_link b6e5b0c8-75cf-8b15-15f8-e689ae6e49d0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 36.6MB](/ans7870/ESD/ESD.57/f07/lecturenotes/ocw_esd_57_2007-09-27.mp3))
@@ -98,7 +100,7 @@ Strategy formulation - key internal factors ([PDF]({{< baseurl >}}/resources/esd
 {{< tdopen >}}
 
 
-Operationalizing the strategy - key internal factors ([PDF]({{< baseurl >}}/resources/esd_seminar_5))
+Operationalizing the strategy - key internal factors ({{% resource_link 5cbbd69e-9607-216c-81fe-e79f523308b0 "PDF" %}})
 
 Market and application segmentation, internal measurements, management reviews
 
@@ -116,7 +118,7 @@ Market and application segmentation, internal measurements, management reviews
 {{< tdopen >}}
 
 
-Operationalizing the strategy - key external factors ([PDF]({{< baseurl >}}/resources/esd_seminar_6))
+Operationalizing the strategy - key external factors ({{% resource_link 0289f196-d127-f8ab-b9b5-df5ccc59e7d1 "PDF" %}})
 
 Major role of market experimentation and end-user innovation
 
@@ -188,7 +190,7 @@ The IBM e-business marketing and communications strategy
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Organization and cultural issues - building and managing a virtual organization ([PDF]({{< baseurl >}}/resources/esd_seminar_10))
+Organization and cultural issues - building and managing a virtual organization ({{% resource_link 28d1e10b-2558-6ef5-8dd5-caedb6f73539 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([MP3 - 33.4MB](/ans7870/ESD/ESD.57/f07/lecturenotes/ocw_esd_57_2007-11-08.mp3))
@@ -200,7 +202,7 @@ Organization and cultural issues - building and managing a virtual organization 
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Organization and cultural issues - key role of leadership and management ([PDF]({{< baseurl >}}/resources/esd_seminar_11))
+Organization and cultural issues - key role of leadership and management ({{% resource_link d50b4341-5b57-142c-5f7d-234eea5388f5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
