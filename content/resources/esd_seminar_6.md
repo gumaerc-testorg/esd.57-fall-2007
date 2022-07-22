@@ -6,6 +6,7 @@ file: /courses/esd-57-technology-based-business-transformation-fall-2007/0289f19
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: esd_seminar_6.pdf
 uid: 0289f196-d127-f8ab-b9b5-df5ccc59e7d1
 ---
 Lecture slides on operationalizing the strategy - key external factors, major role of market experimentation, and end-user innovation.
-

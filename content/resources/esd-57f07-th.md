@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: 'Pathway:  technology, to products, to applications, to business.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-57f07-th.jpg
 uid: d41d3ba9-15d5-888a-b560-647d287e213b
 ---
 New image Upload
-

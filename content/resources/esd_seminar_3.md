@@ -7,6 +7,7 @@ file: /courses/esd-57-technology-based-business-transformation-fall-2007/f20ea4c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: esd_seminar_3.pdf
 uid: f20ea4cb-a738-57b3-fc0e-ceae86dc90aa
 ---
 Lecture slides on strategy formulation - the internet and the Web as major disruptive forces, coming up with the IBM internet strategy, and the future of the internet.
-

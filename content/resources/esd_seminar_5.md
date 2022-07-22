@@ -6,6 +6,7 @@ file: /courses/esd-57-technology-based-business-transformation-fall-2007/5cbbd69
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: esd_seminar_5.pdf
 uid: 5cbbd69e-9607-216c-81fe-e79f523308b0
 ---
 Lecture slides on operationalizing the strategy - key internal factors, market and application segmentation, internal measurements, and management reviews.
-

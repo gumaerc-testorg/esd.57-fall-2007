@@ -6,6 +6,7 @@ file: /courses/esd-57-technology-based-business-transformation-fall-2007/e101257
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: esd_seminar_2.pdf
 uid: e1012577-f8cd-0cf8-7064-ce3386a8a283
 ---
 Lecture slides on strategy formulation - key external factors, and initial discussion of class project.
-

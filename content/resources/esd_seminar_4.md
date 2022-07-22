@@ -5,6 +5,7 @@ file: /courses/esd-57-technology-based-business-transformation-fall-2007/b6e5b0c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: esd_seminar_4.pdf
 uid: b6e5b0c8-75cf-8b15-15f8-e689ae6e49d0
 ---
 Lecture slides on strategy formulation - key internal factors.
-
