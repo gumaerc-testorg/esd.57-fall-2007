@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/esd-57-technology-based-business-transformation-fall-2007/d41d3ba915d5888ab560647d287e213b_esd-57f07-th.jpg
+file_size: 11595
 file_type: image/jpeg
 image_metadata:
   caption: Businesses are built upon the development of new technology, the translation
