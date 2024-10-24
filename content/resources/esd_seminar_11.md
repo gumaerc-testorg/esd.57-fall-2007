@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on organization and cultural issues - key role of leadership
   and management.
-file: /courses/esd-57-technology-based-business-transformation-fall-2007/d50b43415b57142c5f7d234eea5388f5_esd_seminar_11.pdf
+file: /ol-ocw-studio-app/courses/esd-57-technology-based-business-transformation-fall-2007/d50b43415b57142c5f7d234eea5388f5_esd_seminar_11.pdf
 file_size: 249495
 file_type: application/pdf
 learning_resource_types:
