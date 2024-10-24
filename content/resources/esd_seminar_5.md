@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on operationalizing the strategy - key internal factors,
   market and application segmentation, internal measurements, and management reviews.
-file: /courses/esd-57-technology-based-business-transformation-fall-2007/5cbbd69e9607216c81fee79f523308b0_esd_seminar_5.pdf
+file: /ol-ocw-studio-app/courses/esd-57-technology-based-business-transformation-fall-2007/5cbbd69e9607216c81fee79f523308b0_esd_seminar_5.pdf
 file_size: 869034
 file_type: application/pdf
 learning_resource_types:
