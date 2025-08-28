@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides on the critical role of technology-based, disruptive innovations
   to a business, and the IBM near-death experience of the early 1990s.
-file: /courses/esd-57-technology-based-business-transformation-fall-2007/6df42b250d0fbc8cb0b9afdfe21a0e87_esd_seminar_1.pdf
+file: /ol-ocw-studio-app/courses/esd-57-technology-based-business-transformation-fall-2007/6df42b250d0fbc8cb0b9afdfe21a0e87_esd_seminar_1.pdf
 file_size: 830962
 file_type: application/pdf
 learning_resource_types:
