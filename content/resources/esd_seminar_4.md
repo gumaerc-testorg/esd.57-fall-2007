@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on strategy formulation - key internal factors.
-file: /courses/esd-57-technology-based-business-transformation-fall-2007/b6e5b0c875cf8b1515f8e689ae6e49d0_esd_seminar_4.pdf
+file: /ol-ocw-studio-app/courses/esd-57-technology-based-business-transformation-fall-2007/b6e5b0c875cf8b1515f8e689ae6e49d0_esd_seminar_4.pdf
 file_size: 576224
 file_type: application/pdf
 learning_resource_types:
