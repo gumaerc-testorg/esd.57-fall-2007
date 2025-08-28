@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides on strategy formulation - the internet and the Web as
   major disruptive forces, coming up with the IBM internet strategy, and the future
   of the internet.
-file: /courses/esd-57-technology-based-business-transformation-fall-2007/f20ea4cba73857b3fc0eceae86dc90aa_esd_seminar_3.pdf
+file: /ol-ocw-studio-app/courses/esd-57-technology-based-business-transformation-fall-2007/f20ea4cba73857b3fc0eceae86dc90aa_esd_seminar_3.pdf
 file_size: 1611291
 file_type: application/pdf
 learning_resource_types:
