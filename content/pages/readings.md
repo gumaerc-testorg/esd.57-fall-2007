@@ -144,7 +144,7 @@ Major role of market experimentation and end-user innovation
 {{< tdopen >}}
 
 
-{{% resource_link "b43fbbaa-7be6-4c89-aee6-841886ee18b9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Von Hippel, Eric. {{% resource_link "b43fbbaa-7be6-4c89-aee6-841886ee18b9" "_Democratizing Innovation_" %}}. Cambridge, MA: MIT Press, 2005, chapters 1, 2, 3, 4; other chapters optional. ISBN: 9780262002745.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262002745) Von Hippel, Eric. [_Democratizing Innovation_](https://mitpress.mit.edu/9780262002745). Cambridge, MA: MIT Press, 2005, chapters 1, 2, 3, 4; other chapters optional. ISBN: 9780262002745.
 
 Thomke, Stefan. "Enlightened Experimentation." _Harvard Business Review_ 79 (2001): 66.
 
@@ -170,9 +170,9 @@ The IBM e-business marketing and communications strategy
 
 Loomis, C. J. "Dinosaurs?" _Fortune_ 127 (1993): 36-42.
 
-Caldwell, Bruce Caldwell, and John Foley. "{{% resource_link "5a1ce589-4635-406b-bd37-7cae1c4a183d" "IBM Means E-business" %}}." _Information Week_, February 9, 1998.
+Caldwell, Bruce Caldwell, and John Foley. "[IBM Means E-business](http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/ebusiness/transform/)." _Information Week_, February 9, 1998.
 
-Sager, Ira. "{{% resource_link "470f837f-4b9e-41df-aa2e-ab24b2370e50" "Internet Business Machines" %}}." _Business Week e.biz_, December 13, 1999.
+Sager, Ira. "[Internet Business Machines](http://www.businessweek.com/1999/99_50/b3659002.htm)." _Business Week e.biz_, December 13, 1999.
 
 
 {{< tdclose >}}
